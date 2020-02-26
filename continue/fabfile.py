@@ -43,7 +43,7 @@ apt_requirements = [
     'pillow',
     'werkzeug.utils',
     'csv',
-
+    'Jinja2'
 ]
 
 # _로 시작하지 않는 함수들은 fab new_server 처럼 명령줄에서 바로 실행이 가능합니다.
